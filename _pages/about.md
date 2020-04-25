@@ -15,15 +15,18 @@ December 2015 – present: Group Leader of the Information Security and Privacy 
 February 2014-December 2015 : Research Leader at the Mobile Systems Research Group (MSRG) NICTA, Australia.
 
 Feb. 2012-present : Principal Researcher at the Network Research Group NICTA, Australia.
+
 May 2013-present : Visiting Professor at ICT-China Academy of Science (CAS), Beijing China.
+
 2008-2013: Research Scientist at PLANETE (Privatics) team, INRIA Rhone-Alpes, France.
+
 2007-2008 Post-Doctoral researcher at the Research Unit in Networking (RUN) at the University of liege, Belgium.
 
-<title>Research<\title>
 
 I am spearheading Data61’s R&D activities in privacy-preserving technologies with a focus on private date sharing, Information security and Web and mobile security. Before that, at INRIA, he co-invented the technology behind geolocalisation of malicious botnet motherhood servers and pioneered research in the security of internet coordinate systems. I have published over 200 peer-reviewed papers repeatedly in top journals and conferences, receiving many prestigious awards.
 
 Our main research goals are:
+
 Build data and information sharing platforms enabling privacy-preserving data sharing and trustworthy cyber defence collaboration.
 Design and construct resilient and reliable software systems to enable defence mechanisms in distributed and potentially hostile environments.
 
@@ -34,8 +37,7 @@ Quantify and understand threats and cyber risks including socio-economics and fi
 Design policies, governance and decision-making platforms to investigate regulation-compliance and facilitate cyber security mechanisms embedding within organisations.
 
 
-<title>Current Activities<\title>
-
+Current Activities:
 
 Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ACM ToMPECS)
 
