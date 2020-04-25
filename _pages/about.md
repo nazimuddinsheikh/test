@@ -19,7 +19,7 @@ May 2013-present : Visiting Professor at ICT-China Academy of Science (CAS), Bei
 2008-2013: Research Scientist at PLANETE (Privatics) team, INRIA Rhone-Alpes, France.
 2007-2008 Post-Doctoral researcher at the Research Unit in Networking (RUN) at the University of liege, Belgium.
 
-title: "Research"
+<title>Research<\title>
 
 I am spearheading Data61’s R&D activities in privacy-preserving technologies with a focus on private date sharing, Information security and Web and mobile security. Before that, at INRIA, he co-invented the technology behind geolocalisation of malicious botnet motherhood servers and pioneered research in the security of internet coordinate systems. I have published over 200 peer-reviewed papers repeatedly in top journals and conferences, receiving many prestigious awards.
 
@@ -34,8 +34,8 @@ Quantify and understand threats and cyber risks including socio-economics and fi
 Design policies, governance and decision-making platforms to investigate regulation-compliance and facilitate cyber security mechanisms embedding within organisations.
 
 
-title:"Current Activities"
-Current TPCs.
+<title>Current Activities<\title>
+
 
 Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ACM ToMPECS)
 
