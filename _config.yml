@@ -88,7 +88,7 @@ author:
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Mohamed_Ali_Kaafar"
+  #researchgate     :  "https://www.researchgate.net/profile/Mohamed_Ali_Kaafar"
   uri              :
   bitbucket        :
   codepen          :
