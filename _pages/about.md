@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,7 +26,7 @@ May 2013-present : Visiting Professor at ICT-China Academy of Science (CAS), Bei
 I am spearheading Data61’s R&D activities in privacy-preserving technologies with a focus on private date sharing, Information security and Web and mobile security. Before that, at INRIA, he co-invented the technology behind geolocalisation of malicious botnet motherhood servers and pioneered research in the security of internet coordinate systems. I have published over 200 peer-reviewed papers repeatedly in top journals and conferences, receiving many prestigious awards.
 
 Our main research goals are:
-
+======
 Build data and information sharing platforms enabling privacy-preserving data sharing and trustworthy cyber defence collaboration.
 Design and construct resilient and reliable software systems to enable defence mechanisms in distributed and potentially hostile environments.
 
@@ -38,7 +38,7 @@ Design policies, governance and decision-making platforms to investigate regulat
 
 
 Current Activities:
-
+======
 Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ACM ToMPECS)
 
 Editorial Board member of Journal of Privacy Enhancing Technologies (PoPET).
@@ -52,7 +52,7 @@ TPC Member of PETS 2020, PPML19, IEEE ICNP 2019, TMA 2019, IMC 2017, ACM CoNEXT 
 TPC co-chair of CoNext 2015 Student Workshop.
 
 Some previous community services : 
-
+======
 TPC Co-chair of ACM Mobicom SPME (Security and Privacy in Mobile Environment) workshop 2014,
 
 TPC co-Chair of ACM SIGMETRICS PADE workshop 2012, Co-Chair of IEEE LCN PADE 2013-2014,
