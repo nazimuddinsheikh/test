@@ -2,21 +2,19 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Group"
+    url: /group/
+    
+    - title: "Service"
+    url: /service/
+    
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: /cv/    
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "contact"
+    url: /contact/
+        
