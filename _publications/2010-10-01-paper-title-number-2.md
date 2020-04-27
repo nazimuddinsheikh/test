@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "On the Resilience of Biometric Authentication Systems against Random Inputs"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2020
+venue: 'NDSS'
+paperurl: 'https://arxiv.org/pdf/2001.04056.pdf'
+
+citation: 'Zhao, Benjamin Zi Hao, Hassan Jameel Asghar, and Mohamed Ali Kaafar.(2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
