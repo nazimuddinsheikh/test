@@ -2,7 +2,7 @@
 title: "On the Resilience of Biometric Authentication Systems against Random Inputs"
 collection: publications
 
-date: 2020
+
 venue: 'NDSS'
 paperurl: 'https://arxiv.org/pdf/2001.04056.pdf'
 
