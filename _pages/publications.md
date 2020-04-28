@@ -13,7 +13,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2020** 
 
-– B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. PDF
+– B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. <span style="background-color:#FAEBD7">[pdf (pre-print)](https://arxiv.org/abs/2001.04056)</span>, <span style="background-color:#98FB98"> 
 
 – H. Asghar, M.A. Kaafar, “Averaging Attacks on Bounded Noise-based Disclosure Control Algorithms”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. PDF
 
