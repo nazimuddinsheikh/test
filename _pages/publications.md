@@ -66,30 +66,42 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 **2017**
 
 
+– M. Ikram, M.A. Kaafar, “A First Look at Mobile Ad-Blocking Apps”, In Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA 2017).<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span>, <span style="background-color:#98FB98">
 
-– M. Ikram, M.A. Kaafar, “A First Look at Mobile Ad-Blocking Apps”, In Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA 2017). PDF 
 
--Z. Abaid, M.A. Kaafar, S. Jha, “Quantifying the Impact of Adversarial Evasion Attacks on Machine Learning Based Android Malware Classifiers”, In Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA 2017). PDF 
+-Z. Abaid, M.A. Kaafar, S. Jha, “Quantifying the Impact of Adversarial Evasion Attacks on Machine Learning Based Android Malware Classifiers”, In Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA 2017). <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/08171381-2.pdf)</span>, <span style="background-color:#98FB98">
 
-– W. Wu, R. P. Liu, W. Ni, M.A. Kaafar, X. Huang, “AC-PROT: An Access Control Model to Improve Software-Defined Networking Security”, in Proceedings of the 2017 IEEE 85th Vehicular Technology Conference (VTC), June 2017.
 
-–  M. Ikram, H. Asghar, M.A. Kaafar, A. Mahanti, B. Krishnamurthy, “Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning”, in Privacy-Enhancing Technologies Symposium (PETS) 2017. Authors version
+– W. Wu, R. P. Liu, W. Ni, M.A. Kaafar, X. Huang, “AC-PROT: An Access Control Model to Improve Software-Defined Networking Security”, in Proceedings of the 2017 IEEE 85th Vehicular Technology Conference (VTC), June 2017. <span style="background-color:#FAEBD7">[pdf](https://opus.lib.uts.edu.au/bitstream/10453/121784/4/OCC-111082_AM.pdf)</span>, <span style="background-color:#98FB98">
 
--Z. Abaid, M.A. Kaafar, S, Jha, “Early detection of in-the-wild botnet attacks by exploiting network communication uniformity: An empirical study”, In IFIP Networking, Stockholm June 2017. Authors version 
 
--M. Ikram, L. Onwuzurike, S. Farooqi, E. DeCristofaro, A. Friedman, G. Jourjon, M.A. Kaafar, Z, Shaq, “Measuring, Characterizing, and Detecting Facebook Like Farms”, In ACM Transactions on Privacy and Security (TOPS) 2017. PDF
+–  M. Ikram, H. Asghar, M.A. Kaafar, A. Mahanti, B. Krishnamurthy, “Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning”, in Privacy-Enhancing Technologies Symposium (PETS) 2017. Authors version. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/PETs2017_CR.pdf)</span>, <span style="background-color:#98FB98">
 
--J. Chauhan, B. Zhao, H. Asghar, J. Chan and M.A. Kaafar, “BehavioCog: An Observation Resistant Authentication Scheme”, In Financial Cryptography (FC’17) 2017. PDF
 
--A. Shaghagh, M.A. Kaafar, S. Jha, “WedgeTail : An Intrusion Prevention System for the Data Plane of Software Dened Networks”, In Proceedings of the ACM Asia Conference on Computer and Com- munications Security (ASIACCS) 2017, Hong Kong, April 2017.
+-Z. Abaid, M.A. Kaafar, S, Jha, “Early detection of in-the-wild botnet attacks by exploiting network communication uniformity: An empirical study”, In IFIP Networking, Stockholm June 2017. Authors version <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/08264866.pdf)</span>, <span style="background-color:#98FB98">
 
-–  J. Fangzhou, K. Thilakarathna, M.A. Kaafar, A. Seneviratne, “Crowd-Cache: Leveraging on Spatio-Temporal Correlation in Content Popularity for Mobile Networking in Proximity” Accepted in Computer Communications, 2017. 
 
--Z. Li, G. Xie, M.A. Kaafar, W. Qinghua, “Access Types Effect on Internet Video Services and Its Implications on CDN Caching” In IEEE Transactions on Circuits and Systems for Video Technology 2017.
+-M. Ikram, L. Onwuzurike, S. Farooqi, E. DeCristofaro, A. Friedman, G. Jourjon, M.A. Kaafar, Z, Shaq, “Measuring, Characterizing, and Detecting Facebook Like Farms”, In ACM Transactions on Privacy and Security (TOPS) 2017. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/a13-ikram.pdf)</span>, <span style="background-color:#98FB98">
 
-–  S. Seneviratne, A. Seneviratne, M. A. Kaafar, A. Mahanti, P. Mohapatra. “Spam Mobile Apps: Characteristics, Detection, and in the Wild Analysis”, To appear in ACM Transactions on the Web (TWEB), 2017.
 
--S. Farooqi, M. Ikram, E. Decristofaro, A. Friedman, G. Jourjon, M.A. Kaafar, Z. Shaq, F. Zaffar, “Characterizing Key Stakeholders in an Online Black-Hat Marketplace”, In Proceedings of The Symposium on Electronic Crime Research (eCrime) 2017.
+-J. Chauhan, B. Zhao, H. Asghar, J. Chan and M.A. Kaafar, “BehavioCog: An Observation Resistant Authentication Scheme”, In Financial Cryptography (FC’17) 2017. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/paper_40.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-A. Shaghagh, M.A. Kaafar, S. Jha, “WedgeTail : An Intrusion Prevention System for the Data Plane of Software Dened Networks”, In Proceedings of the ACM Asia Conference on Computer and Com- munications Security (ASIACCS) 2017, Hong Kong, April 2017. <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/3052973.3053039)</span>, <span style="background-color:#98FB98">
+
+
+–  J. Fangzhou, K. Thilakarathna, M.A. Kaafar, A. Seneviratne, “Crowd-Cache: Leveraging on Spatio-Temporal Correlation in Content Popularity for Mobile Networking in Proximity” Accepted in Computer Communications, 2017. <span style="background-color:#FAEBD7">[pdf](https://www.sciencedirect.com/science/article/pii/S0140366417300488?casa_token=ZcmRFgFfb_EAAAAA:iOTmzCEHEEcNOApHY-bsATVxu_YQN5Z87lVAljDZJjC-YyY9PEG65aJa7cUIMIkAltg1_zh2bQ)</span>, <span style="background-color:#98FB98">
+
+
+-Z. Li, G. Xie, M.A. Kaafar, W. Qinghua, “Access Types Effect on Internet Video Services and Its Implications on CDN Caching” In IEEE Transactions on Circuits and Systems for Video Technology 2017. <span style="background-color:#FAEBD7">[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7815365)</span>, <span style="background-color:#98FB98">
+
+
+–  S. Seneviratne, A. Seneviratne, M. A. Kaafar, A. Mahanti, P. Mohapatra. “Spam Mobile Apps: Characteristics, Detection, and in the Wild Analysis”, To appear in ACM Transactions on the Web (TWEB), 2017. <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/3007901)</span>, <span style="background-color:#98FB98">
+
+
+-S. Farooqi, M. Ikram, E. Decristofaro, A. Friedman, G. Jourjon, M.A. Kaafar, Z. Shaq, F. Zaffar, “Characterizing Key Stakeholders in an Online Black-Hat Marketplace”, In Proceedings of The Symposium on Electronic Crime Research (eCrime) 2017. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1505.01637.pdf)</span>, <span style="background-color:#98FB98">
+
+**2016**
 
 
 
