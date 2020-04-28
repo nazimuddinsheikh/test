@@ -13,6 +13,15 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2020** 
 
+– B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. PDF
+
+– H. Asghar, M.A. Kaafar, “Averaging Attacks on Bounded Noise-based Disclosure Control Algorithms”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. PDF
+
+– P. Kamalaruban, V. Perrier, H. Asghar, M. A. Kaafar, “Not All Attributes are Created Equal: dx-Private Mechanisms for Linear Queries”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. PDF
+
+– N. Wu, F. Farokhi, D. Smith and M.A. Kaafar, “The Value of Collaboration in Convex Machine Learning with Differential Privacy”, Accepted in the 41st IEEE Symposium on Security and Privacy (IEEE S&P), San Francisco, May 2020. Access PDF here
+
+
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
