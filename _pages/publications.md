@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 Here I list some selected peer-reviewed publications of mine.  
-For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page.
+For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao) page.
 
 **2020** 
 
@@ -47,6 +47,49 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2018**
 
+
+– A. Shaghaghi, S. Kanhere, M.A. Kaafar, E. Bertino, S. Jha, “Gargoyle: A Network-based Insider Attack Resilient Framework for Organizations”, in IEEE LCN 2018. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1807.02593.pdf)</span>, <span style="background-color:#98FB98">
+
+– F. Jiang, K. Thilakarathna, S. Mrabet, M.A. Kaafar, A. Seneviratne, uStash: a Novel Mobile Content Delivery System for Improving User QoE in Public Transport” in IEEE Transactions of Mobile Computing 2018. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1708.04078.pdf)</span>, <span style="background-color:#98FB98">
+
+-R. Masood, M. Ikram, D. Vatsalan, M.A. Kaafar, “Incognito: A Method for Obfuscating Web Data”, In Proceedings of WWW 2018 (Research Track), Lyon, April 2018. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/Incognito-A-Method-for-Obfuscating-Web-Data_WWW2018_Dali-Kaafar.pdf)</span>, <span style="background-color:#98FB98">
+
+– A. Shaghaghi, M.A. Kaafar, R. Buyya, S. Jha, “Software-Defined Network (SDN) Data Plane Security: Issues, Solutions and Future Directions”, Accepted in Cluster Computing 2018. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1804.00262.pdf)</span>, <span style="background-color:#98FB98">
+
+-R. Masood, B. Zhao, H. Asghar, M.A. Kaafar, “Touch and You’re Trapp(ck)ed: Quantifying the Uniqueness of Touch Gestures for Tracking”, in Privacy-Enhancing Technologies Symposium (PETS 2018), Barcelona, Spain July 24–27, 2018. TouchTrack_PETS-2018-Final_Kaafar. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2018/01/TouchTrack_PETS-2018-Final_Kaafar.pdf)</span>, <span style="background-color:#98FB98">
+
+– H. Asghar, M.A. Kaafar, ”When are Identication Protocols with Sparse Challenges Safe? The Case of the Coskun and Herley Attack”,  in the Journal of Mathematical Cryptology, 2018. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/2015-1231.pdf)</span>, <span style="background-color:#98FB98">
+
+M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Characteristics of Ultra-Dense Small Cell Networks”, In IEEE Network Magazine, 2018. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/08370884.pdf)</span>, <span style="background-color:#98FB98">
+
+
+**2017**
+
+
+
+– M. Ikram, M.A. Kaafar, “A First Look at Mobile Ad-Blocking Apps”, In Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA 2017). PDF 
+
+-Z. Abaid, M.A. Kaafar, S. Jha, “Quantifying the Impact of Adversarial Evasion Attacks on Machine Learning Based Android Malware Classifiers”, In Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA 2017). PDF 
+
+– W. Wu, R. P. Liu, W. Ni, M.A. Kaafar, X. Huang, “AC-PROT: An Access Control Model to Improve Software-Defined Networking Security”, in Proceedings of the 2017 IEEE 85th Vehicular Technology Conference (VTC), June 2017.
+
+–  M. Ikram, H. Asghar, M.A. Kaafar, A. Mahanti, B. Krishnamurthy, “Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning”, in Privacy-Enhancing Technologies Symposium (PETS) 2017. Authors version
+
+-Z. Abaid, M.A. Kaafar, S, Jha, “Early detection of in-the-wild botnet attacks by exploiting network communication uniformity: An empirical study”, In IFIP Networking, Stockholm June 2017. Authors version 
+
+-M. Ikram, L. Onwuzurike, S. Farooqi, E. DeCristofaro, A. Friedman, G. Jourjon, M.A. Kaafar, Z, Shaq, “Measuring, Characterizing, and Detecting Facebook Like Farms”, In ACM Transactions on Privacy and Security (TOPS) 2017. PDF
+
+-J. Chauhan, B. Zhao, H. Asghar, J. Chan and M.A. Kaafar, “BehavioCog: An Observation Resistant Authentication Scheme”, In Financial Cryptography (FC’17) 2017. PDF
+
+-A. Shaghagh, M.A. Kaafar, S. Jha, “WedgeTail : An Intrusion Prevention System for the Data Plane of Software Dened Networks”, In Proceedings of the ACM Asia Conference on Computer and Com- munications Security (ASIACCS) 2017, Hong Kong, April 2017.
+
+–  J. Fangzhou, K. Thilakarathna, M.A. Kaafar, A. Seneviratne, “Crowd-Cache: Leveraging on Spatio-Temporal Correlation in Content Popularity for Mobile Networking in Proximity” Accepted in Computer Communications, 2017. 
+
+-Z. Li, G. Xie, M.A. Kaafar, W. Qinghua, “Access Types Effect on Internet Video Services and Its Implications on CDN Caching” In IEEE Transactions on Circuits and Systems for Video Technology 2017.
+
+–  S. Seneviratne, A. Seneviratne, M. A. Kaafar, A. Mahanti, P. Mohapatra. “Spam Mobile Apps: Characteristics, Detection, and in the Wild Analysis”, To appear in ACM Transactions on the Web (TWEB), 2017.
+
+-S. Farooqi, M. Ikram, E. Decristofaro, A. Friedman, G. Jourjon, M.A. Kaafar, Z. Shaq, F. Zaffar, “Characterizing Key Stakeholders in an Online Black-Hat Marketplace”, In Proceedings of The Symposium on Electronic Crime Research (eCrime) 2017.
 
 
 
