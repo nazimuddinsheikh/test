@@ -16,15 +16,18 @@ Education
 
 Work experience
 ======
+* December 2019 - present: Chief Exacutive
+  * Optus Macquarie University Cyber Security Hub
+
+  
 * October 2017 - present: Chief Scientist, Professor
-  * Optus Macquarie University Cuber Security Hub
+  * Macquarie University, Sydney, Australia
   * Department of Computing
   * Faculty of Science and Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2015: Research Group Leader, Information Security and Privacy
+  * Data61, CSIRO, Sydney, Australia
+  
   
 Skills
 ======
