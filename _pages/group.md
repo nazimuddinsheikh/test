@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Group"
+title: "Research Group"
 permalink: /group/
 author_profile: true
 ---
 
 {% include base_path %}
+**Past Post-Doctoral Researchers**
+1. Dr. Tham Nguyen
+2. Dr. Tahiry Rabehaja
+3. Dr. Gioacchino Tangari
+
 
 **Current PhD Students**
 
@@ -28,7 +33,7 @@ author_profile: true
 
 1. Rahat Masood, Data61-UNSW, Topic: Privacy for wearable devices.
 
-2. Ikram Muhammad, Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Post Doc: University Michigan, Optus Macquarie University Cyber Security Hub.
+2. Ikram Muhammad, Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Lecturer: Optus Macquarie University Cyber Security Hub.
 
 3. Arash Shaghaghi, Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Securing Large Enterprise Networks.
 
