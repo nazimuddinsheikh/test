@@ -26,7 +26,7 @@ Drop me an email at (Dali.kaafar\@\@\@mq.edu.au)  with Subject line “Request f
 Start by taking a look at This for information about Admission/Scholarship/Research Proposals, Timelines, etc… 
 
 
-**Recent Achievements**
+**Recent Achievements:**
 
 – Our paper “On the Resilience of Biometric Authentication Systems against Random Inputs” has been accepted to NDSS 2020.
 
