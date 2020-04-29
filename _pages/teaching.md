@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Current PhD Students**
+
 1.Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
 
 2. Shakila Mahjabin, Macquarie University. Topic: Privacy in AI.
@@ -23,6 +24,7 @@ author_profile: true
 7. Ben Zhao, Data61-UNSW, Topic: Next Generation Authentication techniques.
 
 **Past PhD Students**
+
 1. Rahat Masood, Data61-UNSW, Topic: Privacy for wearable devices.
 
 2. Ikram Muhammad, Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Post Doc: University Michigan, Optus Macquarie University Cyber Security Hub.
