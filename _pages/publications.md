@@ -104,6 +104,52 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 **2016**
 
 
+-Z. Li, X. Wang, N. Huang, M.A. Kaafar, Z. Li, J. Zhou, G. Xie, P. Steenkiste, “Mobile Cloud Storage: A File Hosting or a Backup Service?”, in ACM IMC 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/mobile20cloud-2.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-M. Ikram, N. V. Rodriguez, S. Seneviratne, M.A. Kaafar, V. Paxon, “An analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps”, in ACM IMC 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)</span>, <span style="background-color:#98FB98">
+
+
+–  Zhenyu Li ; Mohamed Ali Kaafar ; Kave Salamatian ; Gaogang Xie, “Characterizing and Modeling User Behavior in a Large-scale Mobile Live Streaming System”, Published in IEEE Transactions on Circuits and Systems for Video Technology ( Volume: PP, Issue: 99 ), July 2016, DOI: 10.1109/TCSVT.2016.2595325. <span style="background-color:#FAEBD7">[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7523907)</span>, <span style="background-color:#98FB98">
+
+
+– Kanchana Thilakarathna, Suranga Seneviratne, Kamal Gupta, Mohamed Ali Kaafar, Aruna Seneviratne, A Deep Dive into Location-based Communities in Social Discovery Networks, Elsevier Computer Communications, Available online 21 November 2016, ISSN 0140-3664,<span style="background-color:#FAEBD7">[pdf](https://www.sciencedirect.com/science/article/pii/S0140366416306016?casa_token=PKE3D21qG6gAAAAA:fPrGqnz0pbKwgiJ9rG-WYfR5_JU8M6VmjwpWL47Skq8aBqryHkzY1Isvy1ZOxr0aaUR6YOjXow)</span>, <span style="background-color:#98FB98">
+
+
+-A. Friedman, S. Berkovsky, M. Kaafar, “A Differential Privacy Framework for Matrix Factorization Recommender Systems”,  Published in User Modeling and User-Adapted Interaction: The Journal of Personalization Research (UMUAI) 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/UMUAI_CR_PublishedAugust2016.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-Z. Abaid, D. Sarkar, M.A. Kaafar, S. Jha, “The Early Bird Gets the Botnet: A Markov Chain Based Early Warning System for Botnet Attacks”, in LCN 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/lcn_finalVersion.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-H. Asghar, L. Melis, C. Soldani, E. De Cristofaro, M.A. Kaafar, L. Mathy, “SplitBox: Toward Efficient Private Network Function Virtualization”, in ACM SIGCOMM Workshop on Hot Topics in Middleboxes and Network Function Virtualization, HotMiddleBox 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/splitbox-full-1.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-J. Chauhan, H. J. Asghar, M. A. Kaafar, A. Mahanti, “Gesture-based Continuous Authentication for Wearable Devices: The Smart Glasses Use Case”, in Applied Cryptography and Network Security (ACNS) 2016. <span style="background-color:#FAEBD7">[pdf](https://ts.data61.csiro.au/publications/nicta_full_text/9337.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-J. Chauhan, S. Seneviratne, M. A. Kaafar, A. Mahanti, A. Seneviratne, “Characterization of Early Smartwatch Apps”, in WristSense (PERCOM workshop), 2016. <span style="background-color:#FAEBD7">[pdf](https://www.privmetrics.org/wp-content/uploads/2016/10/WristSense2016_Smartwatch_Apps.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-J. Chauhan, M. A. Kaafar, A. Mahanti, “The Web for Under-Powered Mobile Devices: Lessons learned from Google Glass”, in IEEE Internet Computing 2016. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1507.01677.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-Q. Wu, Z. Li, G. Tyson, S. Uhlig, M.A. Kaafar, G. Xie, “Privacy-aware Multipath Video Caching for Content-Centric Networks”, in IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Video Distribution over Future Internet, 2016. <span style="background-color:#FAEBD7">[pdf](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/11630/Tyson%20Privacy-aware%20Multipath%202016%20Accepted.pdf?sequence=1)</span>, <span style="background-color:#98FB98">
+
+-L. Melis, H. Asghar, E. De Cristofaro, M.A. Kaafar, “Private Processing of Outsourced Network Functions: Feasibility and Constructions” , in ACM International Workshop on Security in Software Defined Networks & Network Function Virtualization (SDN-NFV Security 2016), New Orleans, March 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/sdn08f-melisA_report.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-I. Anggono, H. Haddadi, M.A. Kaafar, “Preserving Privacy in Geo-Targeted Advertising”, in ACM WSDM TargetAd Workshop, San Francisco, February 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/targetad2016.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-D. Wang, Z. Li, M.A. Kaafar, K. Salamatian, G. Xie, “From Social trends to Profit: An optimisation model for Search Engine Adwords management”, In IEEE INFOCOM 2016, San Francisco, April 2016. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/adwords.pdf)</span>, <span style="background-color:#98FB98">
+
+
+-R. Holz, J. Amann, O. Mehani, M. Wachs, M. A. Kaafar, ” TLS in the wild: an Internet-wide analysis of TLS-based protocols for electronic communication’ accepted in the Network and Distributed System Security Symposium (NDSS 2016), San Diego, February 2016. <span style="background-color:#FAEBD7">[pdf](http://arxiv.org/abs/1511.00341)</span>, <span style="background-color:#98FB98">
+
+
+
+**2015**
 
 <!---
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
