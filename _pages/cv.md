@@ -28,15 +28,27 @@ Work experience
 * December 2015: Research Group Leader, Information Security and Privacy
   * Data61, CSIRO, Sydney, Australia
   
+* Feb 2014 – Dec 2015: Research Leader
+  * NICTA
+  * ATP Sydney
+  
+* 2011 – Dec 2015: Principal Researcher
+  * NICTA
+  
+* Oct 2008 – Dec 2013: Research Scientist
+  * INRIA, France
+
+
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Computer Science
+* Privacy Protection
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Data Mining
 
 Publications
 ======
