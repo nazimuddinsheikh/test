@@ -79,12 +79,21 @@ We also develop a theory that enables to predict the outcome of a potential coll
 -Another paper accepted in WWW15, the Web Science Track. The paper is on characterising user behaviour in Mobile Live Streaming Systems. Well-done Zhenyu!
 
 -Great News ! Our paper “Early Detection of Spam Mobile Apps” got in WWW 2015 !
+
 -Our research on Facebook Advertisement and likes fraud is featured in MIT Tech Review. The paper itself can be found here. Other media coverage include: The Telegraph, Pacific Standard, ACM Tech News,finance.yahoo.com
+
 -Paper co-authored with UCI folks on “Stylometric Linkability of Tweets” accepted in WPES 2014 . Congrats guys!
+
 -Our paper submitted to ACM CoNEXT 2014 got in. The paper is a joint work with ICT-CAS, QMUL and CMU. “Trace-Driven Analysis of ICN Caching Algorithms on Video-on-Demand Workloads” by Y. Sun, F. Seyed Kaveh, G. Yang, S. Vyas, J. Yun, M.A. Kaafar and S. Uhlig. Great job folks!
+
 -We have two papers accepted in ACM Internet Measurement Conference (IMC 2014) this year. “Paying for Likes? Understanding Facebook Like Fraud Using Honeypots” with UCL and ucsd folks and “Censorship in the Wild: Analyzing Internet Filtering in Syria” with Inria and UCL folks. a Job well-done guys!
+
 -A column entitled “The Privacy opportunity” I edited appeared in the Technology Decisions Magazine.
+
 -Our paper “On the Effectiveness of Obfuscation Techniques in Online Social Networks” is accepted in PETS 2014. Well done team.
+
 -Our paper “Censorship in the Wild: Analyzing Web Filtering in Syria” attracted media attention: MIT Tech Review, PysicsCentral, BoingBoing, Newsweek, Motherboard, ACM Technews, TheRegister, etc.
+
 –Online Shoppers: before you click that ads, read this. Theconversation column Also, in the Sydney Morning Herald, the age, live science and real clear Technology
+
 -Well Done Team! Our paper “On the Geographical patterns of a Large-Scale Mobile Video-on-Demand System” is accepted in IEEE INFOCOM 2014
