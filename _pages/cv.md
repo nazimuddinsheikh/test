@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Computer Science, Université Nice Sophia Antipolis, France
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2017 - present: Chief Scientist, Professor
+  * Optus Macquarie University Cuber Security Hub
+  * Department of Computing
+  * Faculty of Science and Engineering
 
 * Fall 2015: Research Assistant
   * Github University
