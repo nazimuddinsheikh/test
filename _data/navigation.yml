@@ -9,8 +9,8 @@ main:
   - title: "News"
     url: /news/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
   - title: "Short Bio"
     url: /biography/
