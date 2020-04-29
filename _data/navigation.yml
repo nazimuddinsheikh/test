@@ -15,8 +15,8 @@ main:
   - title: "Short Bio"
     url: /biography/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
  # - title: "Guide"
 #    url: /markdown/
@@ -38,8 +38,8 @@ main:
   - title: "Current Activities"
     url: /service/ 
     
-#  - title: "CV"
-#    url: /cv/
+  - title: "CV"
+    url: /cv/
     
   - title: "Contact"
     url: /contact/ 
