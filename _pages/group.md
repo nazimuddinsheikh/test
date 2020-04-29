@@ -12,6 +12,7 @@ author_profile: true
 1. Dr. Tham Nguyen
 2. Dr. Tahiry Rabehaja
 3. Dr. Gioacchino Tangari
+4. Dr. Zhigang Lu 
 
 
 **Current PhD Students**
