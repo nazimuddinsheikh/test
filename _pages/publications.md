@@ -54,7 +54,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 -R. Masood, M. Ikram, D. Vatsalan, M.A. Kaafar, “Incognito: A Method for Obfuscating Web Data”, In Proceedings of WWW 2018 (Research Track), Lyon, April 2018. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/Incognito-A-Method-for-Obfuscating-Web-Data_WWW2018_Dali-Kaafar.pdf)</span> <span style="background-color:#98FB98">
 
-– A. Shaghaghi, M.A. Kaafar, R. Buyya, S. Jha, “Software-Defined Network (SDN) Data Plane Security: Issues, Solutions and Future Directions”, Accepted in Cluster Computing 2018. <span style="background-color:#FAEBD7">(https://arxiv.org/pdf/1804.00262.pdf)</span> <span style="background-color:#98FB98">
+– A. Shaghaghi, M.A. Kaafar, R. Buyya, S. Jha, “Software-Defined Network (SDN) Data Plane Security: Issues, Solutions and Future Directions”, Accepted in Cluster Computing 2018. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1804.00262.pdf)</span> <span style="background-color:#98FB98">
 
 -R. Masood, B. Zhao, H. Asghar, M.A. Kaafar, “Touch and You’re Trapp(ck)ed: Quantifying the Uniqueness of Touch Gestures for Tracking”, in Privacy-Enhancing Technologies Symposium (PETS 2018), Barcelona, Spain July 24–27, 2018. TouchTrack_PETS-2018-Final_Kaafar. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2018/01/TouchTrack_PETS-2018-Final_Kaafar.pdf)</span> <span style="background-color:#98FB98">
 
