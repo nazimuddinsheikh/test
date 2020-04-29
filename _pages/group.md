@@ -16,7 +16,7 @@ author_profile: true
 
 **Current PhD Students**
 
-1.Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
+1. Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
 
 2. Shakila Mahjabin, Macquarie University. Topic: Privacy in AI.
 
