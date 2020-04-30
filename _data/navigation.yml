@@ -8,23 +8,10 @@ main:
 
   - title: "News"
     url: /news/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
         
   - title: "Short Bio"
     url: /biography/
     
-#  - title: "CV"
-#    url: /cv/
-    
- # - title: "Guide"
-#    url: /markdown/
-    
-# main links links
-#main:
-#  - title: "Publications"
-#    url: /publications/
 
  # - title: "Talks"
  #   url: /talks/    
