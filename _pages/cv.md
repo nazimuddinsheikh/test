@@ -103,16 +103,3 @@ Publications
 
 M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Characteristics of Ultra-Dense Small Cell Networks”, In IEEE Network Magazine, 2018. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/08370884.pdf)</span>, <span style="background-color:#98FB98">
 
-
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
