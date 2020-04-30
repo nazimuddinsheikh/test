@@ -8,11 +8,15 @@ author_profile: true
 {% include base_path %}
 
 
-**Past Post-Doctoral Researchers**
+**Post-Doctoral Researchers**
 1. Dr. Tham Nguyen
 2. Dr. Tahiry Rabehaja
 3. Dr. Gioacchino Tangari
 4. Dr. Zhigang Lu 
+
+**Past Post-Doctoral Researchers**
+
+1. Dr. Muhammad Ikram
 
 
 **Current PhD Students**
