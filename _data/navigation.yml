@@ -11,10 +11,7 @@ main:
         
   - title: "Short Bio"
     url: /biography/
-    
-
- # - title: "Talks"
- #   url: /talks/    
+     
 
   - title: "Group"
     url: /group/ 
@@ -26,8 +23,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /contact/ 
+ # - title: "Contact"
+#    url: /contact/ 
     
 
     
