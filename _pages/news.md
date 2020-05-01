@@ -23,7 +23,7 @@ Several Domestic PhD Scholarships available. Send me an email if you’re intere
 
 Drop me an email at (Dali.kaafar\@\@\@mq.edu.au)  with Subject line “Request for Applications for PhD (MRes) scholarship)“.
 
-Start by taking a look at This for information about Admission/Scholarship/Research Proposals, Timelines, etc… 
+Start by taking a look at [This for information about Admission/Scholarship/Research Proposals, Timelines, etc…](https://research.csiro.au/ng/about-us/people/dali-kaafar/interested-pursuing-phd-cyber-security-privacy-sydney/) 
 
 
 **Recent Achievements:**
