@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-**Open Positions:**
+**Open Scholarship Positions:**
 
 Several Domestic PhD Scholarships available. Send me an email if you’re interested in pursuing a PhD in the broad areas of Cyber Security, Privacy, Human Centric Security and ML security.
 
