@@ -151,37 +151,134 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 
 **2015**
 
+
+-D. Vallet, S. Berkovsky, M.A. Kaafar, S. Ardon, A. Mahanti, “Characterizing and Predicting Viral-and-Popular Video Content”, in The 24th ACM International Conference on Information and Knowledge Management (ACM CIKM 2015), Melbourne, October 2015. pdf
+
+– A. Berlioz, A. Friedman; S. Berkovsky, M. A. Kaafar, R. Boreli, “Applying Differential Privacy to Matrix Factorization”, in ACM Recommender Systems (ACM RecSys 2015), Vienna, September 2015. pdf
+
+– F. Jiang, K. Thilakarathna, M. A. Kaafar, F. Rosenbaum and A. Seneviratne, “A Spatio-temporal analysis of Mobile Internet Traffic in Public Transportation Systems – A view of Web Browsing from the Bus”, Accepted in the Tenth ACM MobiCom Workshop on Challenged Networks (ACM CHANTS 2015), Paris, September 2015. pdf
+
+– H. J. Asghar, S. Ron, S. Li, M.A. Kaafar, J. Pieprzyk, “On the Linearization of Human Identification Protocols: Attacks based on Linear Algebra, Coding Theory and Lattices”, in IEEE Transactions on Information Forensics & Security (TIFS), April 2015. pdf or a Pre-print version 
+
+-Z. Li, M.A. Kaafar, K. Salamatian. G. Xie, “User Behavior Characterization of a Large-scale Mobile Live Streaming System”, in the International World Wide Web Conference (WWW 2015) web science track, Florence, Italy, May 2015. pdf
+
+-S. Seneviratne, A. Seneviratne, M.A. Kaafar, A. Mahanti and P. Mohapatra, “Early Detection of Spam Mobile Apps”, in the International World Wide Web Conference (WWW 2015), Research Track, Florence, Italy, May 2015. pdf
+
+-J. Zhou, Q. Wu, Z. Li, M.A. Kaafar, G. Xie, “A proactive transport mechanism with explicit congestion notification for NDN”, in IEEE ICC 2015 – Next Generation Networking Symposium, London, June 2015. pdf
+
+**2014**
+
+-M. Almishari, G. Tsudik, M. A. Kaafar and E. Oguz, “Stylometric Linkability of Tweets”, In the International Workshop on Privacy in the Electronic Society (WPES 2014), Scottsdale, Arizona, USA – November 2014. pdf
+
+-Y. Sun, F. Seyed Kaveh, G. Yang, S. Vyas, J. Yun, M.A. Kaafar and S. Uhlig, “Trace-Driven Analysis of ICN Caching Algorithms on Video-on-Demand Workloads”, In ACM CoNEXT 2014, Sydney, December 2014. pdf
+
+-E. De Cristofaro, A. Friedman, G. Jourjon , M.A. Kaafar and Z. Shafiq, ”Paying for Likes? Understanding Facebook Like Fraud Using Honeypots”, In ACM IMC 2014, November 2014, Vancouver. pdf (this is an arxiv version of the paper, might be different from the conference version)
+
+-A. Chaabane, T. Chen, A. Friedman , M. Cunche, E. De Cristofaro and M.A. Kaafar “Censorship in the Wild: Analyzing Internet Filtering in Syria”, in ACM IMC 2014, November 2014, Vancouver. pdf (this is an arxiv version of the paper, might be different from the conference version)
+
+-W. Wang, Y. Sun, K. Zheng, M. A. Kaafar, D. Li, Z. Li, “Freeway: Adaptively Isolating the Elephant and Mice Flows on Different Transmission Paths”, in IEEE ICNP 2014, October 2014, Raleigh. pdf
+
+-T. Chen, R. Borelli, M. A. Kaafar, A. Friedman, “On the Effectiveness of Obfuscation Techniques in Online Social Networks”, in the Proceedings of Privacy Enhancing Technologies Symposium (PETS 2014, July 2014, Amsterdam. pdf
+
+-M. Ikram, H. Asghar, M.A. Kaafar, A. Mahanti, ”On the Intrusiveness of JavaScript on the Web”, inCoNEXT Student Workshop Sydney, 2014.
+
+-J. Chauhan, A. Mahanti, M. A. Kaafar, ”Towards the Era of Wearable Computing?”, in CoNEXT Student Workshop Sydney, 2014.
+
+-J. Chauhan, H. J. Asghar, M. A. Kaafar, A. Mahanti, ”Gesture-based Continuous Authentication for Wearable Devices: the Google Glass Case”, December 2014, arXiv preprint arXiv:1412.2855 pdf
+
+– K. Thilakarathna, F. Jiang, S. Mrabet, M.A. Kaafar, A. Seneviratne, P. Mohapatra, ”Crowd-Cache: Popular Content for Free”, Demo in ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services (Mobisys), Bretton Woods, NH, USA, June, 2014. pdf
+
+-A. Tiroshi, S. Berkovsky, M. A. Kaafar, D. Vallet, T. Kuflik, “Graph-Based Recommendations: Make the Most Out of Social Data”, in User Modeling, Adaptation and Personalization (UMAP 2014), July 2014, Aalborg, Denmark. pdf
+
+-A, Chaabane, T. Chen, M. Cunche, A. Friedman, E. De Cristofaro, M.A. Kaafar, “Censorship in the Wild: Analyzing Web Filtering in Syria”, Arxiv Archive, Feb. 2014. pdf
+
+-Z. Li, G. Xie, J. Lin, Y. Jin, M. A. Kaafar, K. Salamatian, “On the Geographical Patterns of a large-scale Mobile Video on-demand System”, In IEEE INFOCOM 2014, April 2014, Toronto Canada. pdf
+
+-I. Ullah, R. Borelli, M. A. Kaafar, S. Kanhere “Characterising User Targeting For In-App Mobile Ads” inIEEE Infocom Workshop BigSecurity 2014, Toronto Canada. pdf
+
+– W. Wang, S. Yi, Y. Guo, M. A. Kaafar, Z. Li. “CRCache: exploiting the Correlation between Content Popularity and Network Topology for ICN Caching”, in IEEE ICC 2014, Sydney.
+
+-A. Tiroshi, S. Berkovsky, M.A. Kaafar, D. Vallet, T. Chen, T. Kuflik ”Improving Business Rating Predictions Using Graph Based Features”, In Proc. of International conference on intelligent user interfaces (IUI 2014), Haifa, 2014. pdf
+
+-T. Chen, M. A. Kaafar, R. Boreli, “Information Leakage Through Mobile Analytics Services”, in the 15th ACM International Workshop on Mobile Computing and Applications (HotMobile’14), February 2014, Santa Barbara, US. pdf
+
+-A. Chaabane, Y. Ding, R. Dey, M. A. Kaafar, K. Ross, “A Closer look at Third-Party OSN Applications: Are they Leaking your Personal Information?”, in Passive Active Measurement conference (PAM 2014), Los Angeles, 2014. pdf
+
+**2013**
+
+-G.Smith, R. Boreli, M. A. Kaafar, “A Layered Secret Sharing scheme for Automated Profile Sharing in OSN Groups”, in the Tenth Annual International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2013), Tokyo Japan, December 2013. pdf
+
+-A. Tiroshi, S. Berkovsky, M.A. Kaafar, T. Chen, T. Kuflik, “Cross Social Networks Interests Predictions Based on Graph Features”, in ACM Recommender Systems Conference (RecSys 2013), Hong Kong, September 2013. pdf
+
+-T. Launiger, K. Onarlioglu, A. Chaabane, E. Kirda, W. Robertson, M. A. Kaafar, “Holiday Pictures or Blockbuster Movies? Insights into Copyright Infringement in User Uploads to One-Click File Hosters”, in the Research in Attacks, intrusions and Defenses Symposium (RAID 2013). pdf
+
+-M. A. Kaafar, S. Berkovsky, B. Donnet “On the Potential of Recommendation Technologies for Efficient Content Delivery Networks” Editorial notes In SIGCOMM Computer Communication Review CCR 2013. pdf
+
+-A. Chaabane, E. De Cristofaro, M. A. Kaafar, E. Uzun “Privacy in Content-Oriented Networking: Threats and Countermeasures” In SIGCOMM Computer Communication Review CCR, presented at ACM SIGCOMM 2013. pdf
+
+-G. Sarwar, O. Mehani, R. Boreli, M. A. Kaafar “On the effectiveness of Dynamic Taint Analysis for Monitoring Private Information on Android-based Mobile Devices”, In SECRYPT 2013. pdf
+
+-T.Chen, A. Chaabane, P-U. tournoux, M.A. Kaafar, R. Boreli “How much is too much: Leveraging Ads Audience Estimation to Evaluate Public Profile Uniqueness”, In PETS 2013. pdf
+
+-T. Chen, M. A. Kaafar, R. Boreli “The where and when of finding new friends: analysis of a location-based social discovery network”, in ICWSM 2013. pdf
+
+-D. Wang, H. Park, G. Xie, S.Moon, M.A. Kaafar, K.Salamatian, “A Genealogy of Information Spreading on Microblogs: a Galton-Watson-based Explicative Model”, In IEEE INFOCOM 2013. pdf
+
+-M. Cunche, M A Kaafar, R. Boreli, “Linking Wireless Devices Using Information Contained in Wi-Fi Probe Requests”, In The Pervasive and Mobile Computing journal PMC 2013. pdf
+
+-Yonggong Wang, Gaogang Xie, Mohamed Ali Kaafar, Steve Uhlig, “LMD: a local minimum driven and self-organized method to obtain locators”, In the 18th IEEE Symposium on Computers and Communications (ISCC 2013), 2013. pdf
+
+-A. Seneviratne, K. Thilakarathna, S. Seneviratne, M. A. Kaafar, P. Mohapatra, “Reconciling Bitter Rivals: Towards Privacy-Aware and Bandwidth Efficient Mobile Ads Delivery Networks”, Invited paper in the International Conference on Communication Systems and Networks (COMSNETS 2013), January, 2013. pdf
+
+**2012**
+
+-Z. Li, J. Lin, M. Akodjenou, G. Xie, M. A. Kaafar, Y. Jin, G. Peng, “Watching Videos from Everywhere: a Study of the PPTV Mobile VoD System”, In ACM/Usenix Internet Measurement Conference (ACM IMC 2012). pdf
+
+-L. Jacquin, V. Roca, M. A. Kaafar, F. Schuler, J. L. Roch, “IBTrack: An ICMP Black holes Tracker”, In IEEE Globecom 2012. pdf
+
+-T. Chen, M. A. Kaafar, A. Friedman, R. Boreli, “Is More Always Merrier? A Deep Dive Into Online Social Footprints”, In ACM SIGCOMM WOSN 2012. pdf
+
+– A. Chaabane, M. A. Kaafar, R. Boreli, “Big Friend is Watching You: Analyzing the tracking capabilities of online social networks”, In ACM SIGCOMM WOSN 2012. pdf
+
+-C. Castelluccia, M. A. Kaafar, M. D. Tran, “Betrayed by Your Ads! Reconstructing User Profiles From Targeted Ads”, In PETS 2012, July 2012 Vigo, Spain. pdf
+
+-Y. Wang, G. Xie, M. A. Kaafar, “FPC: A self-organized greedy routing in scale-free networks”, In the 17th IEEE Symposium on Computers and Communications (ISCC 2012), 2012. pdf
+
+-M. Cunche, M. A. Kaafar, R. Boreli, “I know who you will meet this evening! Linking wireless devices using Wi-Fi probe requests” In the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2012) San Francisco, 2012. (Best Paper Runner-Up). pdf
+
+-A. Chaabane, G. Acs, M. A. Kaafar, “You Are What You Like! Information leakage through users’ Interests” In The Network & Distributed System Security Symposium (NDSS 2012), San Diego, 2012. pdf
+
+-B. Donnet, B. Gueye, and M. A. Kaafar. Path similarity evaluation using bloom filters. In The International Journal of Computer and Telecommunications Networking (Computer Networks) 2012. Preprint Version
+
+**2011**
+
+-C. Castelluccia, E. De Cristofaro, A. Francillon, M. A. Kaafar ”EphPub: Toward Robust Ephemeral Publishing” In Proceedings of the 19th IEEE International Conference on Network Protocols (ICNP 2011), 2011. Preprint Version
+
+– Daniele Perito, Claude Castelluccia, Mohamed Ali Kaafar, Pere Manils. “How Unique and Traceable are Usernames” In the 11th Privacy Enhancing Technologies Symposium(PETS 2011), Waterloo CA 2011. (Best Student Paper Award) pdf
+
+– Ingmar Poese, Steve Uhlig, Mohamed Ali Kaafar, Benoit Donnet and Bamba Gueye, “IP Geolocation Databases: Unreliable?” in ACM SIGCOMM Computer Communication Review CCR,41(2), April 2011. pdf
+
+– S. Leblond, A. Chaabane, P. Manils, M.A. Kaafar, C. Castelluccia, A. Legut, W. Dabbous, “One Bad Apple Spoils the Bunch: Exploiting P2P Applications to Trace and Profile Tor Users”, in USENIX Workshop on Large Scale Exploits and Emergent Threats (LEET’11), Boston, April 2011.
+
+**2010**
+
+– A. Chaabane, P. Manils, M.A. Kaafar, “Digging into Anonymous Traffic: a deep analysis of the Tor anonymizing network”, in Proceeding of the IEEE Conference on Network and System Security (NSS), Melbourne, September 2010.
+
+– C. Boucetta, M. A. Kaafar, M. Minier. How secure are secure localization protocols in WSNs. In the International ICST Conference on Wireless Sensor Network (WSN) Systems and Software, S-Cube,Miami, December 2010.
+
+– M.A. Kaafar, P. Manils. “Why Spammers should thank Google”, In Proceedings of the ACM workshop on Social Network Systems (SNS 2010), Paris, April 2010.
+
+– S. Le Blond, A. Legout, F. Lefessant, W. Dabbous, M.A. Kaafar, “Spying the World from your Laptop− Identifying and Profiling Content Providers and Big Downloaders in BitTorrent”, USENIX Workshop on Large Scale Exploits and Emergent Threats (LEET’10), San Jose, CA, April 2010.
+
+– P.Manils, A. Chaabane, S. Le Blond,M. A. Kaafar, C. Castelluccia, A.Legout, W.Dabbous, “Compromising Tor Anonymity Exploiting P2P Information Leakage”, Presented in ACM Hot Topics in Privacy Enhancing Technologies (HotPETS), Berlin, July 2010. ACM.
+
+– B. Donnet, B. Gueye, M. A. Kaafar, “A survey on Network Coordinates Systems, Design and Security”, In the IEEE Communications Surveys and Tutorials, 2010.
+
+– M.A. Kaafar, L. Mathy, K. Salamatian, C. Barakat, T. Turletti and W. Dabbous. Tracking Relative Errors in Internet Coordinate Systems by a Kalman Filter. 26 pages, in Kalman Filter, Intech Edition. Edited by Vedran Kordic, ISBN 978-953-307-094-0, Publishing date : May 2010.
+
+– S. Leblond, P.Manils, A.Chaabane, M. A. Kaafar, A. Legout, C.Castelluccia, “De-anonymizing BitTorrent users on Tor”, Poster in the USENIX symposium on Networked Systems Design and Implementation (NSDI’10), San Jose, CA, April 2010.
+
 <!---
-Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
-**Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**
-14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-<span style="background-color:#FAEBD7">[pdf (pre-print)](/files/papasavva2020raiders.pdf)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>  
-
-
-Kostantinos Papadamou, Antonis Papasavva, Savvas Zannettou, Jeremy Blackburn, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Michael Sirivianos  
-**Disturbed YouTube for Kids: Characterizing and Detecting Inappropriate Videos Targeting Young Children**  
-14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-<span style="background-color:#FAEBD7">[pdf](/files/papadamou2020disturbed.pdf)</span>   
-Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtube-algorithm.html), [The Washington Post](https://www.washingtonpost.com/technology/2019/03/14/youtube-says-it-bans-preteens-its-site-its-still-delivering-troubling-content-young-children/?noredirect=on), [New Scientist](https://institutions.newscientist.com/article/2196040-children-can-find-inappropriate-videos-on-youtube-in-just-10-clicks/), [Zing](https://news.zing.vn/video-ban-nhan-nhan-va-o-li-tren-youtube-post923996.html), [Bleeping Computer](https://www.bleepingcomputer.com/news/security/researchers-create-algorithm-to-protect-kids-from-disturbing-youtube-videos/)
-
-
-
----
---->
-
-
-<!---
-**2016**
-
-Giorgos A Demetriou, Stelios Ioannou, Andreas Hadjipieri, Irene Erica Panayidou, Antonis Papasavva, Andreas Savva\
-**ERON: A flexible autonomous surface vessel**\
-24th Mediterranean Conference on Control and Automation (MEDCON 2016)\
-[pdf](https://www.researchgate.net/publication/301496594_ERON_A_flexible_autonomous_surface_vessel)
-
-Giorgos A Demetriou, Andreas Hadjipieri, Irene Erica Panayidou, Antonis Papasavva, Stelios Ioannou\
-**ERON: A PID controlled autonomous surface vessel**\
-18th Mediterranean Electrotechnical Conference (MELECON 2016)\
-[pdf](https://www.researchgate.net/publication/294206901_ERON_A_PID_controlled_autonomous_surface_vessel)
-
+Deactivated texts
 --->
 
