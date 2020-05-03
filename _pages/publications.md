@@ -255,81 +255,80 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 
 -M. Cunche, M A Kaafar, R. Boreli, “Linking Wireless Devices Using Information Contained in Wi-Fi Probe Requests”, In The Pervasive and Mobile Computing journal PMC 2013. 
 
-**Due**
 
--Yonggong Wang, Gaogang Xie, Mohamed Ali Kaafar, Steve Uhlig, “LMD: a local minimum driven and self-organized method to obtain locators”, In the 18th IEEE Symposium on Computers and Communications (ISCC 2013), 2013. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-Yonggong Wang, Gaogang Xie, Mohamed Ali Kaafar, Steve Uhlig, “LMD: a local minimum driven and self-organized method to obtain locators”, In the 18th IEEE Symposium on Computers and Communications (ISCC 2013), 2013. <span style="background-color:#FAEBD7">[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.449.3944&rep=rep1&type=pdf)</span> <span style="background-color:#98FB98">
 
 
--A. Seneviratne, K. Thilakarathna, S. Seneviratne, M. A. Kaafar, P. Mohapatra, “Reconciling Bitter Rivals: Towards Privacy-Aware and Bandwidth Efficient Mobile Ads Delivery Networks”, Invited paper in the International Conference on Communication Systems and Networks (COMSNETS 2013), January, 2013. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-A. Seneviratne, K. Thilakarathna, S. Seneviratne, M. A. Kaafar, P. Mohapatra, “Reconciling Bitter Rivals: Towards Privacy-Aware and Bandwidth Efficient Mobile Ads Delivery Networks”, Invited paper in the International Conference on Communication Systems and Networks (COMSNETS 2013), January, 2013. <span style="background-color:#FAEBD7">[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6465567)</span> <span style="background-color:#98FB98">
 
 
 **2012**
 
--Z. Li, J. Lin, M. Akodjenou, G. Xie, M. A. Kaafar, Y. Jin, G. Peng, “Watching Videos from Everywhere: a Study of the PPTV Mobile VoD System”, In ACM/Usenix Internet Measurement Conference (ACM IMC 2012). <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-Z. Li, J. Lin, M. Akodjenou, G. Xie, M. A. Kaafar, Y. Jin, G. Peng, “Watching Videos from Everywhere: a Study of the PPTV Mobile VoD System”, In ACM/Usenix Internet Measurement Conference (ACM IMC 2012). <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/2398776.2398797)</span> <span style="background-color:#98FB98">
 
 
--L. Jacquin, V. Roca, M. A. Kaafar, F. Schuler, J. L. Roch, “IBTrack: An ICMP Black holes Tracker”, In IEEE Globecom 2012. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-L. Jacquin, V. Roca, M. A. Kaafar, F. Schuler, J. L. Roch, “IBTrack: An ICMP Black holes Tracker”, In IEEE Globecom 2012. <span style="background-color:#FAEBD7">[pdf](https://hal.archives-ouvertes.fr/hal-00695746/document)</span> <span style="background-color:#98FB98">
 
 
--T. Chen, M. A. Kaafar, A. Friedman, R. Boreli, “Is More Always Merrier? A Deep Dive Into Online Social Footprints”, In ACM SIGCOMM WOSN 2012. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-T. Chen, M. A. Kaafar, A. Friedman, R. Boreli, “Is More Always Merrier? A Deep Dive Into Online Social Footprints”, In ACM SIGCOMM WOSN 2012. <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/2342549.2342565)</span> <span style="background-color:#98FB98">
 
 
-– A. Chaabane, M. A. Kaafar, R. Boreli, “Big Friend is Watching You: Analyzing the tracking capabilities of online social networks”, In ACM SIGCOMM WOSN 2012.<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+– A. Chaabane, M. A. Kaafar, R. Boreli, “Big Friend is Watching You: Analyzing the tracking capabilities of online social networks”, In ACM SIGCOMM WOSN 2012.<span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/2342549.2342552)</span> <span style="background-color:#98FB98">
 
 
--C. Castelluccia, M. A. Kaafar, M. D. Tran, “Betrayed by Your Ads! Reconstructing User Profiles From Targeted Ads”, In PETS 2012, July 2012 Vigo, Spain. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-C. Castelluccia, M. A. Kaafar, M. D. Tran, “Betrayed by Your Ads! Reconstructing User Profiles From Targeted Ads”, In PETS 2012, July 2012 Vigo, Spain. <span style="background-color:#FAEBD7">[pdf](https://hal.inria.fr/hal-00748156/)</span> <span style="background-color:#98FB98">
 
 
--Y. Wang, G. Xie, M. A. Kaafar, “FPC: A self-organized greedy routing in scale-free networks”, In the 17th IEEE Symposium on Computers and Communications (ISCC 2012), 2012. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-Y. Wang, G. Xie, M. A. Kaafar, “FPC: A self-organized greedy routing in scale-free networks”, In the 17th IEEE Symposium on Computers and Communications (ISCC 2012), 2012. <span style="background-color:#FAEBD7">[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.667.2702&rep=rep1&type=pdf)</span> <span style="background-color:#98FB98">
 
 
--M. Cunche, M. A. Kaafar, R. Boreli, “I know who you will meet this evening! Linking wireless devices using Wi-Fi probe requests” In the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2012) San Francisco, 2012. (Best Paper Runner-Up). <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-M. Cunche, M. A. Kaafar, R. Boreli, “I know who you will meet this evening! Linking wireless devices using Wi-Fi probe requests” In the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2012) San Francisco, 2012. (Best Paper Runner-Up). <span style="background-color:#FAEBD7">[pdf](https://hal.inria.fr/file/index/docid/747825/filename/pub.pdf)</span> <span style="background-color:#98FB98">
 
 
--A. Chaabane, G. Acs, M. A. Kaafar, “You Are What You Like! Information leakage through users’ Interests” In The Network & Distributed System Security Symposium (NDSS 2012), San Diego, 2012.<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-A. Chaabane, G. Acs, M. A. Kaafar, “You Are What You Like! Information leakage through users’ Interests” In The Network & Distributed System Security Symposium (NDSS 2012), San Diego, 2012.<span style="background-color:#FAEBD7">[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.1329&rep=rep1&type=pdf)</span> <span style="background-color:#98FB98">
 
 
--B. Donnet, B. Gueye, and M. A. Kaafar. Path similarity evaluation using bloom filters. In The International Journal of Computer and Telecommunications Networking (Computer Networks) 2012. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-B. Donnet, B. Gueye, and M. A. Kaafar. Path similarity evaluation using bloom filters. In The International Journal of Computer and Telecommunications Networking (Computer Networks) 2012. <span style="background-color:#FAEBD7">[pdf](https://www.sciencedirect.com/science/article/pii/S1389128611003872?casa_token=l4-skjNqWKwAAAAA:t6-NZXfEDCL81nO-bY3EZiT22_E1dvvbXGuDdbhe2WE_Yhpcnh-PShCEstGS99QT4LojJcF6)</span> <span style="background-color:#98FB98">
 
 
 **2011**
 
--C. Castelluccia, E. De Cristofaro, A. Francillon, M. A. Kaafar ”EphPub: Toward Robust Ephemeral Publishing” In Proceedings of the 19th IEEE International Conference on Network Protocols (ICNP 2011), 2011. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+-C. Castelluccia, E. De Cristofaro, A. Francillon, M. A. Kaafar ”EphPub: Toward Robust Ephemeral Publishing” In Proceedings of the 19th IEEE International Conference on Network Protocols (ICNP 2011), 2011. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1003.5510.pdf)</span> <span style="background-color:#98FB98">
 
 
-– Daniele Perito, Claude Castelluccia, Mohamed Ali Kaafar, Pere Manils. “How Unique and Traceable are Usernames” In the 11th Privacy Enhancing Technologies Symposium(PETS 2011), Waterloo CA 2011. (Best Student Paper Award) <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+– Daniele Perito, Claude Castelluccia, Mohamed Ali Kaafar, Pere Manils. “How Unique and Traceable are Usernames” In the 11th Privacy Enhancing Technologies Symposium(PETS 2011), Waterloo CA 2011. (Best Student Paper Award) <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1101.5578.pdf)</span> <span style="background-color:#98FB98">
 
 
-– Ingmar Poese, Steve Uhlig, Mohamed Ali Kaafar, Benoit Donnet and Bamba Gueye, “IP Geolocation Databases: Unreliable?” in ACM SIGCOMM Computer Communication Review CCR,41(2), April 2011. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+– Ingmar Poese, Steve Uhlig, Mohamed Ali Kaafar, Benoit Donnet and Bamba Gueye, “IP Geolocation Databases: Unreliable?” in ACM SIGCOMM Computer Communication Review CCR,41(2), April 2011. <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/1971162.1971171)</span> <span style="background-color:#98FB98">
 
 
-– S. Leblond, A. Chaabane, P. Manils, M.A. Kaafar, C. Castelluccia, A. Legut, W. Dabbous, “One Bad Apple Spoils the Bunch: Exploiting P2P Applications to Trace and Profile Tor Users”, in USENIX Workshop on Large Scale Exploits and Emergent Threats (LEET’11), Boston, April 2011. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+– S. Leblond, A. Chaabane, P. Manils, M.A. Kaafar, C. Castelluccia, A. Legut, W. Dabbous, “One Bad Apple Spoils the Bunch: Exploiting P2P Applications to Trace and Profile Tor Users”, in USENIX Workshop on Large Scale Exploits and Emergent Threats (LEET’11), Boston, April 2011. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1103.1518.pdf)</span> <span style="background-color:#98FB98">
 
 
 **2010**
 
-– A. Chaabane, P. Manils, M.A. Kaafar, “Digging into Anonymous Traffic: a deep analysis of the Tor anonymizing network”, in Proceeding of the IEEE Conference on Network and System Security (NSS), Melbourne, September 2010. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–A. Chaabane, P. Manils, M.A. Kaafar, “Digging into Anonymous Traffic: a deep analysis of the Tor anonymizing network”, in Proceeding of the IEEE Conference on Network and System Security (NSS), Melbourne, September 2010. <span style="background-color:#FAEBD7">[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.370&rep=rep1&type=pdf)</span> <span style="background-color:#98FB98">
 
 
-– C. Boucetta, M. A. Kaafar, M. Minier. How secure are secure localization protocols in WSNs. In the International ICST Conference on Wireless Sensor Network (WSN) Systems and Software, S-Cube,Miami, December 2010. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–C. Boucetta, M. A. Kaafar, M. Minier. How secure are secure localization protocols in WSNs. In the International ICST Conference on Wireless Sensor Network (WSN) Systems and Software, S-Cube,Miami, December 2010. <span style="background-color:#FAEBD7">[pdf](https://link.springer.com/chapter/10.1007/978-3-642-23583-2_12)</span> <span style="background-color:#98FB98">
 
 
-– M.A. Kaafar, P. Manils. “Why Spammers should thank Google”, In Proceedings of the ACM workshop on Social Network Systems (SNS 2010), Paris, April 2010. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–M.A. Kaafar, P. Manils. “Why Spammers should thank Google”, In Proceedings of the ACM workshop on Social Network Systems (SNS 2010), Paris, April 2010. <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/1852658.1852662)</span> <span style="background-color:#98FB98">
 
 
-– S. Le Blond, A. Legout, F. Lefessant, W. Dabbous, M.A. Kaafar, “Spying the World from your Laptop− Identifying and Profiling Content Providers and Big Downloaders in BitTorrent”, USENIX Workshop on Large Scale Exploits and Emergent Threats (LEET’10), San Jose, CA, April 2010. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–S. Le Blond, A. Legout, F. Lefessant, W. Dabbous, M.A. Kaafar, “Spying the World from your Laptop− Identifying and Profiling Content Providers and Big Downloaders in BitTorrent”, USENIX Workshop on Large Scale Exploits and Emergent Threats (LEET’10), San Jose, CA, April 2010. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1004.0930.pdf)</span> <span style="background-color:#98FB98">
 
 
-– P.Manils, A. Chaabane, S. Le Blond,M. A. Kaafar, C. Castelluccia, A.Legout, W.Dabbous, “Compromising Tor Anonymity Exploiting P2P Information Leakage”, Presented in ACM Hot Topics in Privacy Enhancing Technologies (HotPETS), Berlin, July 2010. ACM. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–P.Manils, A. Chaabane, S. Le Blond,M. A. Kaafar, C. Castelluccia, A.Legout, W.Dabbous, “Compromising Tor Anonymity Exploiting P2P Information Leakage”, Presented in ACM Hot Topics in Privacy Enhancing Technologies (HotPETS), Berlin, July 2010. ACM. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1004.1461.pdf)</span> <span style="background-color:#98FB98">
 
 
-– B. Donnet, B. Gueye, M. A. Kaafar, “A survey on Network Coordinates Systems, Design and Security”, In the IEEE Communications Surveys and Tutorials, 2010. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–B. Donnet, B. Gueye, M. A. Kaafar, “A survey on Network Coordinates Systems, Design and Security”, In the IEEE Communications Surveys and Tutorials, 2010. <span style="background-color:#FAEBD7">[pdf](https://orbi.uliege.be//bitstream/2268/27279/1/survey.pdf)</span> <span style="background-color:#98FB98">
 
 
-– M.A. Kaafar, L. Mathy, K. Salamatian, C. Barakat, T. Turletti and W. Dabbous. Tracking Relative Errors in Internet Coordinate Systems by a Kalman Filter. 26 pages, in Kalman Filter, Intech Edition. Edited by Vedran Kordic, ISBN 978-953-307-094-0, Publishing date : May 2010.<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–M.A. Kaafar, L. Mathy, K. Salamatian, C. Barakat, T. Turletti and W. Dabbous. Tracking Relative Errors in Internet Coordinate Systems by a Kalman Filter. 26 pages, in Kalman Filter, Intech Edition. Edited by Vedran Kordic, ISBN 978-953-307-094-0, Publishing date : May 2010.<span style="background-color:#FAEBD7">[pdf](https://www.researchgate.net/profile/Thierry_Turletti/publication/221908830_Tracking_Relative_Errors_in_Internet_Coordinate_Systems_by_a_Kalman_Filter/links/09e415062f623e67ee000000/Tracking-Relative-Errors-in-Internet-Coordinate-Systems-by-a-Kalman-Filter.pdf)</span> <span style="background-color:#98FB98">
 
 
-– S. Leblond, P.Manils, A.Chaabane, M. A. Kaafar, A. Legout, C.Castelluccia, “De-anonymizing BitTorrent users on Tor”, Poster in the USENIX symposium on Networked Systems Design and Implementation (NSDI’10), San Jose, CA, April 2010.<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1709.02901.pdf)</span> <span style="background-color:#98FB98">
+–S. Leblond, P.Manils, A.Chaabane, M. A. Kaafar, A. Legout, C.Castelluccia, “De-anonymizing BitTorrent users on Tor”, Poster in the USENIX symposium on Networked Systems Design and Implementation (NSDI’10), San Jose, CA, April 2010.<span style="background-color:#FAEBD7">[pdf](https://hal.inria.fr/inria-00471177/document)</span> <span style="background-color:#98FB98">
 
 
 <!---
