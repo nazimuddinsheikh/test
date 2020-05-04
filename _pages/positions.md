@@ -1,14 +1,12 @@
-
 ---
 layout: archive
 title: ""
-
 permalink: /positions/
-
 author_profile: true
 ---
 
 {% include base_path %}
+
 
 **Interested in pursuing a Master by Research or a PhD in Cyber Security and Privacy in Sydney?**
  
