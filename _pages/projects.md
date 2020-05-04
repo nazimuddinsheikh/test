@@ -7,14 +7,14 @@ author_profile: true
 
 **Projects**
 
-- [Network Measurements through Advertisement](https://research.csiro.au/data61/network-measurements-through-advertisement/)
+- [Network Measurements through Advertisement](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub/research)
 
-- [Data Privacy as Business Opportunity](https://research.csiro.au/data61/data-privacy-as-business-opportunity/)
+- [Data Privacy as Business Opportunity](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub/research)
 
-- [Alternatives to Passwords](https://research.csiro.au/data61/alternatives-to-passwords/)
+- [Alternatives to Passwords](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub/research)
 
-- [Combatting Cyber Frauds](https://research.csiro.au/data61/combatting-cyber-frauds/)
+- [Combatting Cyber Frauds](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub/research)
 
-- [PrivMetrics: A Framework to Secure User Privacy in Smartphones](https://research.csiro.au/data61/privmetrics-a-framework-to-secure-user-privacy-in-smartphones/)
+- [PrivMetrics: A Framework to Secure User Privacy in Smartphones](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub/research)
 
-- [User-stash](https://research.csiro.au/data61/user-stash/)
+- [User-stash](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub/research)
