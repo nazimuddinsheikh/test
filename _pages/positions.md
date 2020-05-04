@@ -2,7 +2,9 @@
 ---
 layout: archive
 title: ""
+
 permalink: /positions/
+
 author_profile: true
 ---
 
