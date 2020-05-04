@@ -1,29 +1,27 @@
 # main links links
 main:
-
-   - title: "News"
+  - title: "News"
     url: /news/  
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Short Bio"
+    url: /biography/
 
+  - title: "Collaborations"
+    url: /group/ 
+    
+    
   - title: "Projects"
     url: /projects/    
 
     
-  - title: "Short Bio"
-    url: /biography/
+  - title: "Publications"
+    url: /publications/
      
-
-  - title: "Group"
-    url: /group/ 
- 
-    
-  - title: "Current Activities"
+  - title: "Current Activities & Services"
     url: /service/ 
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
  # - title: "Contact"
 #    url: /contact/ 
