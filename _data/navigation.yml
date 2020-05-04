@@ -20,6 +20,9 @@ main:
   - title: "Current Activities & Services"
     url: /service/ 
     
+  - title: "Open Positions"
+    url: /positions/ 
+    
 #  - title: "CV"
 #    url: /cv/
     
