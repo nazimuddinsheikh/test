@@ -11,9 +11,9 @@ title                    : "Dali Kaafar"
 title_separator          : "-"
 name                     : &name "Dali Kaafar"
 description              : &description "personal description"
-url                      : https://nazimuddinsheikh.github.io/test/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https:/nazimuddinsheikh.github.io/test/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/nazimuddinsheikh/test"
+repository               : "https:/github.com/nazimuddinsheikh/test"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
