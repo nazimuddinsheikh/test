@@ -15,7 +15,7 @@ This is probably the right page for you.
 
 **Research Interests**
 
-First start by taking a looking at my Research profile. (Check the Publications section if you’re not too sure, and skim through a number of papers). You can send me an email (Dali.kaafar@|@|@|@mq.edu.au) or Dali.kaafar@|@|@|@data61.csiro.au) if you can’t locate a PDF version of the paper you’re interested in.
+First start by taking a looking at my Research profile. (Check the Publications section if you're not too sure, and skim through a number of papers). You can send me an email (dali.kaafar@mq.edu.au) or dali.kaafar@data61.csiro.au) if you can't locate a PDF version of the paper you're interested in.
 
 **Eligibility**
 
