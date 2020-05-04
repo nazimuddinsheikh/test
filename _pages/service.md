@@ -17,7 +17,7 @@ Guest Editor for the IEEE Internet Computing on Small Wearable Internet 2015
 
 TPC Member of PETS 2020, PPML19, IEEE ICNP 2019, TMA 2019, IMC 2017, ACM CoNEXT 2017, ACM CoNEXT 2016, PETS 2016, IEEE ICC 2016, IFIP TMA 2016, SIGCOMM AINTEC 2016, ACM CoNEXT 2015, ACM IMC 2015, WWW 2015, IEEE MASCOTS 2015, PETS 2015, IFIP TMA 2015, HotPlanet 2015.
 
-TPC co-chair of CoNext 2015 Student Workshop.
+TPC co-chair of [CoNext 2015 Student Workshop](http://conferences2.sigcomm.org/co-next/2015/#!/home).
 
 Some previous community services : 
 
