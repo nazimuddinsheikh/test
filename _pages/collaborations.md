@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Group"
+title: "Information Security & Privacy Research Group"
 permalink: /collaborations/
 author_profile: true
 ---
